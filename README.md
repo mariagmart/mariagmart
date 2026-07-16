@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=María%20González%20Martínez&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:FF69B4,50:FFFFFF,100:4ECDC4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=María%20González-Mohino%20Martínez&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:FF69B4,50:FFFFFF,100:4ECDC4"/>
 
 ## 🌸 Physics Undergraduate
 
@@ -67,6 +67,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,24,14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF69B4,50:FFFFFF,100:4ECDC4"/>
 
 </div>
